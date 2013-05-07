@@ -1,6 +1,0 @@
-# One Month Rails 
-
-This is the Sample app for 
-[*One Month Rails: TYTCode](http://onemonthrails.com)
-
-by [Mattan Grioffell](http://mattangriffel.com)
